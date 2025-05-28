@@ -1,5 +1,5 @@
 #Empower Local Ads.txt
-#v05272025
+#v05282025
 empowerlocal.com, 377588, DIRECT
 #InfoLinks
 infolinks.com, 3406796, direct
