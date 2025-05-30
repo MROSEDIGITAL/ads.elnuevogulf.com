@@ -138,3 +138,6 @@ freewheel.tv, 24377, RESELLER
 #Teads
 teads.tv, 23938, DIRECT, 15a9c44f6d26cbe1
 #END EL Ads.txt
+
+
+google.com, pub-8935105288119233, DIRECT, f08c47fec0942fa0
